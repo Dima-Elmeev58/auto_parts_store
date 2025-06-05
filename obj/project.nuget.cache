@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p218ViRYp3Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\AutoStoreParts\\AutoStoreParts\\AutoStoreParts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0-preview.4.25258.110\\system.configuration.configurationmanager.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.data.oledb\\10.0.0-preview.4.25258.110\\system.data.oledb.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0-preview.4.25258.110\\system.diagnostics.eventlog.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.0-preview.4.25258.110\\system.diagnostics.performancecounter.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0-preview.4.25258.110\\system.security.cryptography.protecteddata.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
+}
