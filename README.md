@@ -14,4 +14,5 @@
 3. Запустить AutoStoreParts.exe
 # 4.Где пользователи могут помощь по проекту
 [Документация](https://github.com/Dima-Elmeev58/auto_parts_store/wiki)
+
 [Автор проекта ВК](https://vk.com/d.elmeev023)
